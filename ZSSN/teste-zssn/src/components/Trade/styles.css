@@ -1,0 +1,40 @@
+.trade-container h4 {
+  margin: 25px 0;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.trade-input-button {
+  width: 20px;
+  border: none;
+  background-color: #333;
+  color: #fff;
+  margin: 0 5px;
+}
+
+.trade-input-button:hover {
+  cursor: pointer;
+}
+
+.trade-return {
+  margin-top: 50px;
+}
+
+.trade-button {
+  margin: 25px 0;
+}

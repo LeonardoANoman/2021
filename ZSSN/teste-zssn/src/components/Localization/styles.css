@@ -1,0 +1,27 @@
+.localization-container h4 {
+  margin-top: 25px;
+}
+
+.localization-container input {
+  width: 120px;
+  height: 35px;
+  border: 1px solid #333;
+  border-radius: 3px;
+  text-align: center;
+}
+
+.localization-input-container {
+  justify-content: center;
+  margin-top: 50px;
+  display: grid;
+  grid-template-columns: 150px 150px;
+  gap: 50px;
+}
+
+.localization-input-container p {
+  margin-bottom: 7.5px;
+}
+
+.localization-button {
+  margin-top: 50px;
+}
